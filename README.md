@@ -2,7 +2,7 @@
 
 🎓 Final-Year Bachelor of Computer Science (Software Engineering) Student  
 🏫 Universiti Tenaga Nasional (UNITEN)  
-💻 Aspiring Software Engineer | Cybersecurity & AI Enthusiast  
+💻 Aspiring Software Engineer | AI & ML Enthusiast  
 
 ---
 
