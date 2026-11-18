@@ -11,8 +11,10 @@ Final-year Software Engineering student at Universiti Tenaga Nasional (UNITEN), 
 ### Currently
 
 - **Software & AI Engineer (part-time contract), Wajie Ibrahim.** Building a multi-tenant RAG assistant and a generative AI design pipeline for a fashion retail brand, and shipped a consultation booking redesign on their Shopify store.
-- **AI Annotator & Trainer, micro1.** Ranking model responses for RLHF preference data and labelling text, code and multimodal data against quality rubrics.
-- **Previously: System Analyst Intern, Tenaga Nasional Berhad (Jun – Aug 2026).** Built a map-based inspection dashboard (React, .NET Core, PostGIS) and led Power BI reporting for two cutover programmes.
+
+- **Previously:
+- **System Analyst Intern, Tenaga Nasional Berhad (Jun – Aug 2026).** Built a map-based inspection dashboard (React, .NET Core, PostGIS) and led Power BI reporting for two cutover programmes.
+- - **AI Annotator & Trainer, micro1.** Ranking model responses for RLHF preference data and labelling text, code and multimodal data against quality rubrics.
 
 ### Selected work
 
